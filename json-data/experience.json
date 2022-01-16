@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Connecto Social Website",
+		"time": "11/2021 - 01/2022",
+		"description": "Create a social website to connect everyone together. User can use some features such as Post (create, update, delete, see posts, save posts), Profile (see information, update), Friends (follow, unfollow), Chat (personal, group), Story (create, see stories, give emotion),... I created it to finish a graduation thesis.",
+		"team": "Only me",
+		"language_technology": "Frontend (HTML, SCSS, ReactJS, Restful API), Backend (NodeJS, ExpressJS, MongoDB), Storage (Cloudinary), SocketIO",
+		"link": "https://connecto-social.netlify.app",
+		"color": "orange-color"
+	},
+	{
+		"name": "Real Estate LandingPage",
+		"time": "11/2021",
+		"description": "Create a LandingPage what base on investor's website to advertise a real state project. Customers can see detail information about project and contact with seller by sending an email via a form what used EmailJs",
+		"team": "Only me",
+		"language_technology": "HTML, SCSS, ReactJS, EmailJs",
+		"link": "https://real-estate-landingpage.netlify.app",
+		"color": "green-color"
+	},
+	{
+		"name": "VnFlower Shop",
+		"time": "07/2021 - 10/2021",
+		"description": "Create a flower shop to sell products. Clients can use some features such as purchase, checkout, chat with admin,... Admin can create, delete, update products, create promotions, chat with client,... I created it to finish a specialize project.",
+		"team": "Only me",
+		"language_technology": "Frontend (HTML, SCSS, ReactJS, Restful API), Backend (NodeJS, ExpressJS, MongoDB), Storage (Cloudinary), SocketIO",
+		"link": "https://vnflower-shop.netlify.app",
+		"color": "red-color"
+	},
+	{
+		"name": "Cake Landing Page",
+		"time": "06/2021",
+		"description": "Create a cake landing page to promote cake shop and help customers can order cake with necessary information.",
+		"team": "Only me",
+		"language_technology": "HTML, CSS, responsive",
+		"link": "https://cake-landing-page.netlify.app",
+		"color": "orange-color"
+	},
+	{
+		"name": "TechShop Ecommerce",
+		"time": "01/2021 - 05/2021",
+		"description": "Create an e-commerce website in Frontend side, which users can select and order their favorite technology item. Of course, It’s just a demo. And I built it to apply for which I learned.",
+		"team": "Only me",
+		"language_technology": "HTML, CSS, ReactJS + Redux, Restful API to fake data, Firebase to storage images.",
+		"link": "http://techshop-ecommerce.surge.sh",
+		"color": "green-color"
+	},
+	{
+		"name": "Todolist",
+		"time": "Free Time",
+		"description": "Create a small TodoList page to manage schedule on day, and I built it when I learned ReactJs.",
+		"team": "Only me",
+		"language_technology": "HTML, Bootstrap, ReactJs + Redux.",
+		"link": "http://cv-todolist-application.surge.sh",
+		"color": "red-color"
+	},
+	{
+		"name": "Small Shopee template",
+		"time": "Free Time",
+		"description": "Create a Shopee Template (PSD to HTML), and I built it when I learned HTML, CSS.",
+		"team": "Only me",
+		"language_technology": "HTML, CSS, responsive.",
+		"link": "http://cv-small-shopee-template.surge.sh",
+		"color": "orange-color"
+	}
+]

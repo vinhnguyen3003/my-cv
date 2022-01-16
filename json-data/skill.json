@@ -1,0 +1,59 @@
+[
+    {
+        "title": "PROGRAMMING LANGUAGES",
+        "icon": "fas fa-mobile-alt",
+        "color": "green-color",
+        "content": [
+            "Javascript (ES6)",
+            "HTML, CSS"
+        ]
+    },
+    {
+        "title": "FRAMEWORKS & PLATFORMS",
+        "icon": "fas fa-layer-group",
+        "color": "red-color",
+        "content": [
+            "ReactJS",
+            "React Hooks",
+            "Redux",
+            "SCSS"
+        ]
+    },
+    {
+        "title": "VERSION CONTROL",
+        "icon": "fas fa-database",
+        "color": "orange-color",
+        "content": [
+            "Git",
+            "Github"
+        ]
+    },
+    {
+        "title": "IDE",
+        "icon": "fas fa-laptop-code",
+        "color": "purple-color",
+        "content": [
+            "Visual Studio Code",
+            "Sublime Text"
+        ]
+    },
+    {
+        "title": "FOREIGN LANGUAGE",
+        "icon": "fas fa-file-alt",
+        "color": "blue-color",
+        "content": [
+            "Able to read foreign books and documents"
+        ]
+    },
+    {
+        "title": "KNOWLEDGE",
+        "icon": "fas fa-camera-retro",
+        "color": "dark-blue-color",
+        "content": [
+            "Restful API",
+            "Responsive",
+            "Basic Photoshop",
+            "Basic Figma"
+        ]
+    }
+]
